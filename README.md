@@ -1,5 +1,5 @@
 ### sspay：测试地址
- - 本项目已经部署到线下，可以点此在线测试：[点此获取最新版源码和教程](https://sspay.goodqp.com/) 
+ - 本项目已经部署到线下，可以点此在线测试：[点此获取最新版源码和教程](http://sspay.goodqp.com/) 
  
 ### sspay：现有其它项目缺点
  - 1、大部分需要商家微信或支付宝才能实现全自动回调收款
@@ -32,9 +32,9 @@
  
   
 ### sspay：项目展示
-- 电脑端进入→ [在线demo](https://sspay.goodqp.com/)
+- 电脑端进入→ [在线demo](http://sspay.goodqp.com/)
 
 ### sspay：源码下载
- - 源码下载地址：[点此获取最新版源码和教程](https://sspay.goodqp.com/) 
+ - 源码下载地址：[点此获取最新版源码和教程](http://sspay.goodqp.com/) 
  - PHP服务端源码，安卓监控端，全部开源
  - 配备详细搭建文档和api文档
